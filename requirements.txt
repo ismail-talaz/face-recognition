@@ -1,0 +1,12 @@
+albumentations == 1.4.0 
+keras == 2.10.0
+keras-facenet == 0.3.2
+Keras-Preprocessing == 1.1.2
+matplotlib == 3.8.3 
+numpy == 1.26.4
+tensorflow == 2.10.0
+opencv-python == 4.9.0.80
+tensorboard == 2.10.1
+cudatoolkit = 11.0
+cudnn == 8.0
+tensorflow-gpu == 2.4.1
